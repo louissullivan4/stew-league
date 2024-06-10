@@ -12,7 +12,6 @@
   "dependencies": {
     "canvas": "^2.11.2",
     "express": "^4.19.2",
-    "readline": "^1.3.0",
     "twisted": "^1.60.2"
   },
   "devDependencies": {
